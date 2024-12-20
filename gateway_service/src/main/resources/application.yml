@@ -1,3 +1,6 @@
+jwt:
+  secret: BeMySecretcdecedlkeokjefmjxsll54654ed
+  prefix: Bearer
 server:
   port: 8081
 
